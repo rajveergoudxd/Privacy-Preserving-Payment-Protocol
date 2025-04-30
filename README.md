@@ -49,6 +49,8 @@ The Privacy-Preserving Payment Protocol has several exciting directions for futu
 8. **Advanced Cryptographic Techniques**: Research and implement emerging cryptographic methods like fully homomorphic encryption and recursive zero-knowledge proofs to enhance privacy guarantees.
 
 Contract Address - 0x8289026E0a3fBbeC71EAbe082ADA7235B0f0320D
+![image](https://github.com/user-attachments/assets/7c3a7f73-2368-46e2-82c6-46a6f313cdd5)
+
 
 ---
 
